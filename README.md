@@ -1,8 +1,9 @@
 # Certificates-Courses for Technikal SEO specialist
 ## 1. Основы технического SEO
-1. Google SEO Fundamentals (Coursera, бесплатно) — от Университета Калифорнии. Сертификат ценится.
+1. https://skillshop.docebosaas.com/pages/16/skillshop-home-page
+2. Google SEO Fundamentals (Coursera, платно) — от Университета Калифорнии. Сертификат ценится.
 
-2. https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=ru - перечитать инфо от google
+3. https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=ru - документация по seo от google / перечитать инфо на русском
 
 ## 2. HTML / CSS / JavaScript (базово, как для SEO-шника)
 ### Responsive Web Design
